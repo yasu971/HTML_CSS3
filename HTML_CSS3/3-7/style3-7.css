@@ -1,0 +1,28 @@
+header{
+    height: 80px;
+    width: 100%;
+    background-color: lightgray;
+  }
+  
+  .main{
+    color: white;
+  }
+  
+  .parent{
+    width :360px;
+    height: 360px;
+    background-color: pink;
+    margin: 40px;
+  }
+  
+  .child{
+    width :200px;
+    height: 200px;
+    background-color: skyblue;
+  }
+  
+  footer{
+    height: 80px;
+    width: 100%;
+    background-color:lightgray;
+  }

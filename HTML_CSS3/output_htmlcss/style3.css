@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  height: 50px;
+  width: 80%;
+  font-size: 25px;
+  background-color: lightgray;
+}
+
+.contents{
+  width: 500px;
+  background-color: gray;
+}
+
+.benefit1{
+  height: 250px;
+  width: 300px;
+  background-color: lightcoral;
+}
+
+.benefit2{
+  height: 250px;
+  width: 300px;
+  background-color: lightblue;
+}
+
+.benefit3{
+  height: 250px;
+  width: 300px;
+  background-color: lightgreen;
+}

@@ -1,0 +1,14 @@
+p {
+  font-size: 24px;
+  color: red;
+}
+.second-message {
+  color: orange;
+  font-size: 12px;
+}
+#third-message {
+  color: blue;
+}
+.blue {
+  color: blue;
+}
