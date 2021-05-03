@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* これより上は、ブラウザの見た目を整えるための設定 */
+  
+  header{
+    height: 50px;
+    width: 80%;
+    font-size: 25px;
+    background-color: lightgray;
+  }
+  
+  .contents{
+    width: 500px;
+  }
+  
+  .benefit1{
+    height: 250px;
+    width: 300px;
+    background-color: lightcoral;
+    text-align: center;
+  }
+  
+  .benefit2{
+    height: 250px;
+    width: 300px;
+    background-color: lightblue;
+    text-align: center;
+  }
+  
+  .benefit3{
+    height: 250px;
+    width: 300px;
+    background-color: lightgreen;
+    text-align: center;
+  }
