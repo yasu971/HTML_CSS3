@@ -13,3 +13,36 @@ ul,li {
   padding: 0;
   margin: 0;
 }
+
+/* ヘッダー */
+header {
+  height: 50px;
+}
+
+/* first-viewクラスからbottom-contentクラスまでの要素の親要素 */
+.contents {
+}
+
+.first-view{
+  height: 60vh;
+}
+
+/* 新着情報 */
+.upper-content{
+  height: 450px;
+}
+
+/* スタイリスト紹介 */
+.middle-content{
+  height: 450px;
+}
+
+/* フォーム */
+.bottom-content {
+  height: 800px;
+}
+
+/* フッター */
+footer {
+  height: 50px;
+}
