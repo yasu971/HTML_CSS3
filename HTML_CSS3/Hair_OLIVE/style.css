@@ -51,4 +51,6 @@ header {
 footer {
   height: 50px;
   background-color: #f0f0f0;
+  padding: 10px 0;
+  display: flex;  
 }
