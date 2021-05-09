@@ -34,18 +34,21 @@ header {
 .upper-content{
   height: 450px;
   background-color: aqua;
+  margin: 0 160px;
 }
 
 /* スタイリスト紹介 */
 .middle-content{
   height: 450px;
   background-color: aquamarine;
+  margin: 0 160px;
 }
 
 /* フォーム */
 .bottom-content {
   height: 800px;
   background-color:lightgreen;
+  margin: 0 160px;
 }
 
 /* フッター */
