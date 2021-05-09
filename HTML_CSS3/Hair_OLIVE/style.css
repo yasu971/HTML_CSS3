@@ -27,6 +27,21 @@ header {
   margin-left: 30px;
 }
 
+
+.navbar {
+  width: 50%;
+  padding: 20px;
+}
+
+.nav-lists {
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  list-style: none;
+}
+
 /* first-viewクラスからbottom-contentクラスまでの要素の親要素 */
 .contents {
   background-color: white;
