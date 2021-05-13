@@ -12,14 +12,14 @@ html, body{
 }
 
 .left_contents{
-  width: 300px;
+  width: 50%;
   height: 100%;
   background-color: #333;
   color: white;
 }
 
 .right_contents{
-  width: 700px;
+  width: 50%;
   height: 100%;
   background-color:#111;
   color: white;
