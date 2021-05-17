@@ -48,4 +48,22 @@
   margin: 0 20px;
   display: flex;
   justify-content: space-between;
+  font-weight: bold;
+}
+
+.user-name {
+  color: #333333;
+}
+
+.menu {
+  display: flex;
+}
+
+.new-group {
+  margin-right: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #333333;
 }
