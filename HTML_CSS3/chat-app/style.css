@@ -44,6 +44,7 @@
 .side-box {
   height: 20px;
   width: 260px;
+  /* 背景色を削除 */
   background-color: #ffffff;
   margin: 0 20px;
   display: flex;
@@ -52,7 +53,7 @@
 }
 
 .user-name {
-  color: #333333;
+  color: #eeeeee;
 }
 
 .menu {
@@ -65,5 +66,5 @@
 
 a {
   text-decoration: none;
-  color: #333333;
+  color: #eeeeee;
 }
