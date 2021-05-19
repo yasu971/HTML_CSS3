@@ -86,3 +86,9 @@ a {
 .member {
   margin-left: 5px;
 }
+
+.edit-btn {
+  font-size: 16px;
+  border: 1px solid #eeeeee;
+  padding: 15px 20px;
+}
